@@ -1,0 +1,17 @@
+#mainpanel{
+-fx-background-image: url('back2.png');
+-fx-background-repeat:no-repeat;
+-fx-background-size:300px 300px;
+-fx-opacity:0.7;
+-fx-background-position: center;
+}
+
+#print{
+
+-fx-background-color: rgba(0, 100, 100, 0.3);
+-fx-padding:10px;
+-fx-text-fill:black;
+-fx-border-radius: 30;
+-fx-font-size:20px;
+-fx-opacity:1;
+}
